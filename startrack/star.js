@@ -44,7 +44,7 @@ function updateFrame() {
   }
 
   // 以小角度旋转星空
-  rotateContext(0.0005);
+  rotateContext(0.0006);
 }
 
 // 将上下文按指定角度旋转
@@ -58,7 +58,7 @@ starContext.fillRect(0, 0, canvas.width, canvas.height);
 starContext.lineCap = "round";
 
 // 定义星星数量并创建星星对象数组
-var numStars = 5000; // 调整此值以控制星星密度
+var numStars = 5600; // 调整此值以控制星星密度
 
 for (var i = 0; i < numStars; i++) {
   stars.push({
