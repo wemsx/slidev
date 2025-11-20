@@ -1,22 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1655 995">
+<svg id="_图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1655 995">
   <!-- Generator: Adobe Illustrator 29.7.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 8)  -->
   <defs>
     <style>
-      .st0, .st1, .st2 {
-        fill: none;
+      .st0 {
+        font-size: 32px;
       }
 
-      .st3, .st4, .st5, .st6, .st7 {
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6 {
         font-family: LXGWWenKai-Medium, 'LXGW WenKai';
         font-weight: 500;
       }
 
-      .st3, .st8, .st5, .st6 {
+      .st0, .st2, .st7, .st8, .st4, .st5, .st6 {
         isolation: isolate;
       }
 
-      .st4 {
+      .st1 {
+        font-size: 24px;
+      }
+
+      .st2 {
         font-size: 40px;
       }
 
@@ -26,49 +30,42 @@
         font-size: 41px;
       }
 
-      .st9, .st6 {
-        font-size: 64px;
-      }
-
-      .st10 {
+      .st9 {
         fill: #b02200;
       }
 
-      .st10, .st1, .st2, .st11 {
+      .st9, .st10, .st11 {
         stroke-linejoin: round;
         stroke-width: 3.4px;
       }
 
-      .st10, .st11 {
+      .st9, .st11 {
         stroke: #0d0d0d;
       }
 
-      .st12 {
-        font-size: 24px;
-      }
-
-      .st13 {
-        font-size: 32px;
-      }
-
-      .st14 {
-        fill: #fff;
-      }
-
-      .st1 {
+      .st10 {
+        fill: none;
         stroke: #000;
       }
 
-      .st5 {
+      .st3 {
+        font-size: 28px;
+      }
+
+      .st12 {
+        fill: #f8f8f8;
+      }
+
+      .st4 {
         font-size: 46px;
       }
 
-      .st2 {
-        stroke: #d9d9d9;
+      .st5 {
+        font-size: 36px;
       }
 
-      .st7 {
-        font-size: 36px;
+      .st6 {
+        font-size: 64px;
       }
 
       .st11 {
@@ -76,16 +73,14 @@
       }
     </style>
   </defs>
-  <rect class="st0" width="1655" height="995"/>
-  <rect class="st0" x="-5.9" y="0" width="1655" height="995"/>
-  <rect class="st14" x="0" y="3" width="1646" height="990"/>
+  <rect class="st12" width="1655" height="995"/>
   <rect class="st11" x="255.6" y="199.5" width="95.1" height="357"/>
   <rect class="st11" x="350.6" y="229.5" width="96" height="327"/>
   <rect class="st11" x="446.7" y="366.5" width="96" height="190"/>
   <rect class="st11" x="542.7" y="378.5" width="96" height="178"/>
   <rect class="st11" x="638.7" y="390.5" width="95" height="166"/>
   <rect class="st11" x="733.7" y="416.5" width="96" height="140"/>
-  <rect class="st10" x="829.7" y="423.5" width="96" height="133"/>
+  <rect class="st9" x="829.7" y="423.5" width="96" height="133"/>
   <rect class="st11" x="925.7" y="433.5" width="95" height="123"/>
   <rect class="st11" x="1020.7" y="439.5" width="96" height="117"/>
   <rect class="st11" x="1116.7" y="444.5" width="96" height="112"/>
@@ -93,31 +88,82 @@
   <rect class="st11" x="1308.7" y="463.5" width="95" height="93"/>
   <rect class="st11" x="1403.7" y="469.5" width="96" height="87"/>
   <rect class="st11" x="1499.7" y="483.5" width="95.9" height="73"/>
-  <path class="st1" d="M255.6,556.5h1340"/>
-  <text class="st8" transform="translate(196.3 567)"><tspan x="0" y="0">0</tspan></text>
-  <text class="st8" transform="translate(154.5 512)"><tspan x="0" y="0">500</tspan></text>
-  <text class="st8" transform="translate(133.6 457)"><tspan x="0" y="0">1000</tspan></text>
-  <text class="st8" transform="translate(133.6 403)"><tspan x="0" y="0">1500</tspan></text>
-  <text class="st8" transform="translate(133.6 348)"><tspan x="0" y="0">2000</tspan></text>
-  <text class="st8" transform="translate(133.6 293)"><tspan x="0" y="0">2500</tspan></text>
-  <text class="st8" transform="translate(133.6 238)"><tspan x="0" y="0">3000</tspan></text>
-  <text class="st8" transform="translate(133.6 184)"><tspan x="0" y="0">3500</tspan></text>
-  <text class="st5" transform="translate(101.8 410) rotate(-90)"><tspan x="0" y="0">条数</tspan></text>
-  <text class="st6" transform="translate(443.5 121.7)"><tspan x="0" y="0">港科大2025本科新生群2群</tspan></text>
-  <rect class="st2" x=".6" y="3.5" width="1646" height="990"/>
-  <text class="st4" transform="translate(217.3 935) rotate(-60)"><tspan x="0" y="0">25-杨璐菡-SSCIA-杭州</tspan></text>
-  <text class="st4" transform="translate(121.6 935) rotate(-60)"><tspan x="0" y="0">25-肖志昊-CPEG-成都</tspan></text>
-  <text class="st7" transform="translate(303.1 948.4) rotate(-60)"><tspan x="0" y="0">Ryodiohead_MBValentine</tspan></text>
-  <text class="st4" transform="translate(627.8 701.8) rotate(-60)"><tspan x="0" y="0">Lumine</tspan></text>
-  <text class="st4" transform="translate(701.2 761.2) rotate(-60)"><tspan x="0" y="0">沧海一声笑</tspan></text>
-  <text class="st4" transform="translate(409.5 935) rotate(-60)"><tspan x="0" y="0">25-辛泽汇-SSCIA-上海</tspan></text>
-  <text class="st4" transform="translate(709 935) rotate(-60)"><tspan x="0" y="0">25-罗浩元-SSCIA-四川</tspan></text>
-  <text class="st4" transform="translate(945.7 683.6) rotate(-60)"><tspan x="0" y="0">群成员</tspan></text>
-  <text class="st4" transform="translate(1068.7 627.9) rotate(-60)"><tspan x="0" y="0">禅</tspan></text>
-  <text class="st4" transform="translate(1148.3 643.2) rotate(-60)"><tspan x="0" y="0">dal</tspan></text>
-  <text class="st4" transform="translate(1116.7 885.4) rotate(-60)"><tspan x="0" y="0">25 Alex sci a 苏州</tspan></text>
-  <text class="st4" transform="translate(1276.3 935) rotate(-60)"><tspan x="0" y="0">Atopos 港科大 陈一夫</tspan></text>
-  <text class="st4" transform="translate(1439.6 831.9) rotate(-60)"><tspan x="0" y="0">가장창기입니다</tspan></text>
-  <text class="st4" transform="translate(1243.2 812) rotate(-60)"><tspan x="0" y="0">ZBNY Forever</tspan></text>
-  <text class="st3" transform="translate(527.7 173.5)"><tspan class="st13" x="0" y="0">统计周期:</tspan><tspan class="st9" x="139.2" y="0"> </tspan><tspan class="st12" x="161.6" y="0">2025-08-01 17:48 - 2025-11-20 15:25</tspan></text>
+  <path class="st10" d="M255.6,556.5h1340"/>
+  <g class="st7">
+    <text class="st8" transform="translate(196.3 567)"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st8" transform="translate(154.5 512)"><tspan x="0" y="0">500</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st8" transform="translate(133.6 457)"><tspan x="0" y="0">1000</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st8" transform="translate(133.6 403)"><tspan x="0" y="0">1500</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st8" transform="translate(133.6 348)"><tspan x="0" y="0">2000</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st8" transform="translate(133.6 293)"><tspan x="0" y="0">2500</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st8" transform="translate(133.6 238)"><tspan x="0" y="0">3000</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st8" transform="translate(133.6 184)"><tspan x="0" y="0">3500</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st4" transform="translate(101.8 410) rotate(-90)"><tspan x="0" y="0">条数</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st6" transform="translate(443.5 121.7)"><tspan x="0" y="0">港科大2025本科新生群2群</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st2" transform="translate(217.3 935) rotate(-60)"><tspan x="0" y="0">25-杨璐菡-SSCIA-杭州</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st2" transform="translate(121.6 935) rotate(-60)"><tspan x="0" y="0">25-肖志昊-CPEG-成都</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st5" transform="translate(303.1 948.4) rotate(-60)"><tspan x="0" y="0">Ryodiohead_MBValentine</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st2" transform="translate(627.8 701.8) rotate(-60)"><tspan x="0" y="0">Lumine</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st2" transform="translate(701.2 761.2) rotate(-60)"><tspan x="0" y="0">沧海一声笑</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st2" transform="translate(409.5 935) rotate(-60)"><tspan x="0" y="0">25-辛泽汇-SSCIA-上海</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st2" transform="translate(709 935) rotate(-60)"><tspan x="0" y="0">25-罗浩元-SSCIA-四川</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st2" transform="translate(945.7 683.6) rotate(-60)"><tspan x="0" y="0">群成员</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st2" transform="translate(1068.7 627.9) rotate(-60)"><tspan x="0" y="0">禅</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st2" transform="translate(1148.3 643.2) rotate(-60)"><tspan x="0" y="0">dal</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st2" transform="translate(1116.7 885.4) rotate(-60)"><tspan x="0" y="0">25 Alex sci a 苏州</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st2" transform="translate(1276.3 935) rotate(-60)"><tspan x="0" y="0">Atopos 港科大 陈一夫</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st2" transform="translate(1439.6 831.9) rotate(-60)"><tspan x="0" y="0">가장창기입니다</tspan></text>
+  </g>
+  <g class="st7">
+    <text class="st2" transform="translate(1243.2 812) rotate(-60)"><tspan x="0" y="0">ZBNY Forever</tspan></text>
+  </g>
+  <g>
+    <text class="st0" transform="translate(532.4 169.2)"><tspan x="0" y="0">统计周期:</tspan></text>
+    <text class="st1" transform="translate(688.9 168.9)"><tspan x="0" y="0">2025-08-01 17:48 - 2025-11-20 15:25</tspan></text>
+  </g>
+  <text class="st3" transform="translate(667.9 217.5)"><tspan x="0" y="0">总共：40676条/374人</tspan></text>
 </svg>
